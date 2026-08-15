@@ -1,0 +1,3 @@
+deb https://deb.krypton-os.org/krypton beryllium main contrib non-free
+deb https://security.krypton-os.org/krypton-security beryllium-security main
+deb https://raw.githubusercontent.com/CreatorPoints/Krypton-Repo/main/apt/ beryllium main
