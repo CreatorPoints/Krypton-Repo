@@ -1,0 +1,12 @@
+{
+  "format": "krypton-deb-1.0",
+  "package": "neofetch",
+  "version": "7.1.0-2",
+  "architecture": "all",
+  "maintainer": "Krypton Core Team <packages@krypton-os.org>",
+  "section": "utils/system",
+  "description": "Fast, highly customizable CLI system info diagnostic tool",
+  "files": {
+    "/usr/bin/neofetch": "#!/bin/bash\n# neofetch system info fetcher\n"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format": "krypton-deb-1.0",
+  "package": "cmatrix",
+  "version": "2.0-3",
+  "architecture": "amd64",
+  "maintainer": "Krypton Core Team <packages@krypton-os.org>",
+  "section": "utils/console",
+  "description": "Matrix Digital Rain Terminal Screensaver",
+  "files": {
+    "/usr/bin/cmatrix": "#!/bin/bash\n# cmatrix binary executable\n",
+    "/usr/share/man/man1/cmatrix.1.gz": "man page for cmatrix"
+  }
+}
